@@ -1,0 +1,2 @@
+# wmic-alternative
+wmic-alternative
